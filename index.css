@@ -14,6 +14,11 @@ body {
     padding: 10px;
 }
 
+.syllabus {
+    background-color: MediumSeaGreen;
+    padding: 10px;
+}
+
 .project-content {
     display: inline-block;
     text-align: left;

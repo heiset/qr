@@ -9,13 +9,25 @@ body {
     padding: 0px;
 }
 
-.projects {
-    background-color: yellow;
+.syllabus {
+    background-color: MediumSeaGreen;
     padding: 10px;
 }
 
-.syllabus {
-    background-color: MediumSeaGreen;
+.syllabus-content {
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    margin: 45px 50px 50px 50px;
+}
+
+.syllabus-thumbnail {
+    display: inline-block;
+    height: 256px;
+}
+
+.projects {
+    background-color: yellow;
     padding: 10px;
 }
 
